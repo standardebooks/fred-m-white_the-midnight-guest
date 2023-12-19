@@ -56,7 +56,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Fred_M._White</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n85085950</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Sager-Nelson Olof</dc:contributor>
+		<dc:contributor id="artist">Olof Sager-Nelson</dc:contributor>
 		<meta property="file-as" refines="#artist">Sager-Nelson, Olof</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Olof_Sager-Nelson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2016000863</meta>
