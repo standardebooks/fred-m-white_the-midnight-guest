@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56960</dc:source>
 		<dc:source>https://archive.org/details/midnightguestad00whitgoog</dc:source>
-		<meta property="se:word-count">84981</meta>
+		<meta property="se:word-count">84288</meta>
 		<meta property="se:reading-ease.flesch">74.19</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fred-m-white_the-midnight-guest</meta>
 		<dc:creator id="author">Fred M. White</dc:creator>
